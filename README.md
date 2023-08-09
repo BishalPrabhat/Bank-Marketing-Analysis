@@ -1,5 +1,6 @@
 # Bank-Marketing-Analysis
-Business Use Case
+Business Use Case: Problem Statement
+
 There has been a revenue decline for a Portuguese bank and they would like to know what actions to take. 
 After investigation, they found out that the root cause is that their clients are not depositing as frequently as before.
 Knowing that term deposits allow banks to hold onto a deposit for a specific amount of time, so banks can invest in higher gain financial products to make a profit.
